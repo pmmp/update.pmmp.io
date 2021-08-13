@@ -1,1 +1,13 @@
-required args: <git hash> <branch name>
+{
+    "job": "PocketMine-MP",
+    "php_version": "8.0",
+    "base_version": "3.22.1",
+    "build": 1844,
+    "is_dev": false,
+    "git_commit": "9477034a4ae58cc5c12b8278c14a8e46a43992b2",
+    "mcpe_version": "1.17.10",
+    "date": 1627041860,
+    "details_url": "https://github.com/pmmp/PocketMine-MP/releases/tag/3.22.1/",
+    "download_url": "https://github.com/pmmp/PocketMine-MP/releases/download/3.22.1/PocketMine-MP.phar",
+    "source_url": "https://github.com/pmmp/PocketMine-MP/tree/3.22.1"
+}
