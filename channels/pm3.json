@@ -1,0 +1,13 @@
+{
+    "php_version": "8.0",
+    "base_version": "3.26.1",
+    "build": 2031,
+    "is_dev": false,
+    "channel": "pm3",
+    "git_commit": "6b7d0307afb36a7faca2dd65734e15000baf17ba",
+    "mcpe_version": "1.18.0",
+    "date": 1638311319,
+    "details_url": "https://github.com/pmmp/PocketMine-MP/releases/tag/3.26.1",
+    "download_url": "https://github.com/pmmp/PocketMine-MP/releases/download/3.26.1/PocketMine-MP.phar",
+    "source_url": "https://github.com/pmmp/PocketMine-MP/tree/3.26.1"
+}
