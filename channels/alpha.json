@@ -1,0 +1,13 @@
+{
+    "php_version": "8.0",
+    "base_version": "5.0.0-ALPHA1",
+    "build": 2080,
+    "is_dev": false,
+    "channel": "alpha",
+    "git_commit": "30079f6fd0d5903315e12cbcff7abfe31c486536",
+    "mcpe_version": "1.19.0",
+    "date": 1657140788,
+    "details_url": "https://github.com/pmmp/PocketMine-MP/releases/tag/5.0.0-ALPHA1",
+    "download_url": "https://github.com/pmmp/PocketMine-MP/releases/download/5.0.0-ALPHA1/PocketMine-MP.phar",
+    "source_url": "https://github.com/pmmp/PocketMine-MP/tree/5.0.0-ALPHA1"
+}
