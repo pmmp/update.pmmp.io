@@ -1,14 +1,14 @@
 {
     "php_version": "8.0",
-    "base_version": "5.0.0-ALPHA4",
-    "build": 2093,
+    "base_version": "5.0.0-ALPHA5",
+    "build": 2099,
     "is_dev": false,
     "channel": "alpha",
-    "git_commit": "b6289e5807173ed9aaea1bb2f4799d18bf2e2c79",
-    "mcpe_version": "1.19.30",
-    "date": 1664029113,
-    "details_url": "https://github.com/pmmp/PocketMine-MP/releases/tag/5.0.0-ALPHA4",
-    "download_url": "https://github.com/pmmp/PocketMine-MP/releases/download/5.0.0-ALPHA4/PocketMine-MP.phar",
-    "source_url": "https://github.com/pmmp/PocketMine-MP/tree/5.0.0-ALPHA4",
-    "build_log_url": "https://github.com/pmmp/PocketMine-MP/actions/runs/3118632062"
+    "git_commit": "90305a0b9278f3d661c243c8b27d9748c567ae57",
+    "mcpe_version": "1.19.40",
+    "date": 1668350899,
+    "details_url": "https://github.com/pmmp/PocketMine-MP/releases/tag/5.0.0-ALPHA5",
+    "download_url": "https://github.com/pmmp/PocketMine-MP/releases/download/5.0.0-ALPHA5/PocketMine-MP.phar",
+    "source_url": "https://github.com/pmmp/PocketMine-MP/tree/5.0.0-ALPHA5",
+    "build_log_url": "https://github.com/pmmp/PocketMine-MP/actions/runs/3455720551"
 }
