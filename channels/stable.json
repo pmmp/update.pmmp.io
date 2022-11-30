@@ -1,14 +1,14 @@
 {
     "php_version": "8.0",
-    "base_version": "4.11.0",
-    "build": 2101,
+    "base_version": "4.12.0",
+    "build": 2102,
     "is_dev": false,
     "channel": "stable",
-    "git_commit": "d450264e1c39077357b240b80688238a8187a758",
-    "mcpe_version": "1.19.40",
-    "date": 1669408220,
-    "details_url": "https://github.com/pmmp/PocketMine-MP/releases/tag/4.11.0",
-    "download_url": "https://github.com/pmmp/PocketMine-MP/releases/download/4.11.0/PocketMine-MP.phar",
-    "source_url": "https://github.com/pmmp/PocketMine-MP/tree/4.11.0",
-    "build_log_url": "https://github.com/pmmp/PocketMine-MP/actions/runs/3550568744"
+    "git_commit": "cd233b123bd0a402f266cde889a3bf5412167592",
+    "mcpe_version": "1.19.50",
+    "date": 1669826186,
+    "details_url": "https://github.com/pmmp/PocketMine-MP/releases/tag/4.12.0",
+    "download_url": "https://github.com/pmmp/PocketMine-MP/releases/download/4.12.0/PocketMine-MP.phar",
+    "source_url": "https://github.com/pmmp/PocketMine-MP/tree/4.12.0",
+    "build_log_url": "https://github.com/pmmp/PocketMine-MP/actions/runs/3585234780"
 }
