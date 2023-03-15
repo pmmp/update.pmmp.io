@@ -1,0 +1,14 @@
+{
+    "php_version": "8.0",
+    "base_version": "4.9.1",
+    "build": 2094,
+    "is_dev": false,
+    "channel": "stable",
+    "git_commit": "15645759e92bcfa715e9f6df3410e83681f331f4",
+    "mcpe_version": "1.19.30",
+    "date": 1665524911,
+    "details_url": "https://github.com/pmmp/PocketMine-MP/releases/tag/4.9.1",
+    "download_url": "https://github.com/pmmp/PocketMine-MP/releases/download/4.9.1/PocketMine-MP.phar",
+    "source_url": "https://github.com/pmmp/PocketMine-MP/tree/4.9.1",
+    "build_log_url": "https://github.com/pmmp/PocketMine-MP/actions/runs/3230459850"
+}
