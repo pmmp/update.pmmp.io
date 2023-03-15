@@ -1,0 +1,13 @@
+{
+    "php_version": "8.0",
+    "base_version": "4.0.0-BETA15",
+    "build": 2030,
+    "is_dev": false,
+    "channel": "beta",
+    "git_commit": "d560cf17fc2496161c375324ec3fb52f17057c25",
+    "mcpe_version": "1.18.0",
+    "date": 1638300459,
+    "details_url": "https://github.com/pmmp/PocketMine-MP/releases/tag/4.0.0-BETA15",
+    "download_url": "https://github.com/pmmp/PocketMine-MP/releases/download/4.0.0-BETA15/PocketMine-MP.phar",
+    "source_url": "https://github.com/pmmp/PocketMine-MP/tree/4.0.0-BETA15"
+}
