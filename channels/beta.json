@@ -1,14 +1,15 @@
 {
     "php_version": "8.1",
-    "base_version": "5.0.0-BETA4",
-    "build": 2154,
+    "base_version": "5.5.0-BETA1",
+    "build": 2185,
     "is_dev": false,
     "channel": "beta",
-    "git_commit": "1c691167171fd9310446649e06bcc006c616db2f",
-    "mcpe_version": "1.19.80",
-    "date": 1684803225,
-    "details_url": "https://github.com/pmmp/PocketMine-MP/releases/tag/5.0.0-BETA4",
-    "download_url": "https://github.com/pmmp/PocketMine-MP/releases/download/5.0.0-BETA4/PocketMine-MP.phar",
-    "source_url": "https://github.com/pmmp/PocketMine-MP/tree/5.0.0-BETA4",
-    "build_log_url": "https://github.com/pmmp/PocketMine-MP/actions/runs/5051891875"
+    "git_commit": "c8100480ac494562fff12bbe905d73be109e1f12",
+    "mcpe_version": "1.20.10",
+    "date": 1692807012,
+    "details_url": "https://github.com/pmmp/PocketMine-MP/releases/tag/5.5.0-BETA1",
+    "download_url": "https://github.com/pmmp/PocketMine-MP/releases/download/5.5.0-BETA1/PocketMine-MP.phar",
+    "source_url": "https://github.com/pmmp/PocketMine-MP/tree/5.5.0-BETA1",
+    "build_log_url": "https://github.com/pmmp/PocketMine-MP/actions/runs/5953785608",
+    "php_download_url": "https://github.com/pmmp/PHP-Binaries/releases/tag/php-8.1-latest"
 }
