@@ -1,15 +1,15 @@
 {
     "php_version": "8.1",
-    "base_version": "5.6.0",
-    "build": 2189,
+    "base_version": "5.6.1",
+    "build": 2190,
     "is_dev": false,
     "channel": "stable",
-    "git_commit": "338bb3fe6d70f093fc8dc01d1d3c3b4b3656fcf8",
+    "git_commit": "decc18830217d89127c4d0c1ad1bf53550b3709e",
     "mcpe_version": "1.20.30",
-    "date": 1695232897,
-    "details_url": "https://github.com/pmmp/PocketMine-MP/releases/tag/5.6.0",
-    "download_url": "https://github.com/pmmp/PocketMine-MP/releases/download/5.6.0/PocketMine-MP.phar",
-    "source_url": "https://github.com/pmmp/PocketMine-MP/tree/5.6.0",
-    "build_log_url": "https://github.com/pmmp/PocketMine-MP/actions/runs/6252351543",
+    "date": 1697794297,
+    "details_url": "https://github.com/pmmp/PocketMine-MP/releases/tag/5.6.1",
+    "download_url": "https://github.com/pmmp/PocketMine-MP/releases/download/5.6.1/PocketMine-MP.phar",
+    "source_url": "https://github.com/pmmp/PocketMine-MP/tree/5.6.1",
+    "build_log_url": "https://github.com/pmmp/PocketMine-MP/actions/runs/6585955315",
     "php_download_url": "https://github.com/pmmp/PHP-Binaries/releases/tag/php-8.1-latest"
 }
