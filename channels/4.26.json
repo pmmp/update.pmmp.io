@@ -11,5 +11,5 @@
     "download_url": "https://github.com/pmmp/PocketMine-MP/releases/download/4.26.0/PocketMine-MP.phar",
     "source_url": "https://github.com/pmmp/PocketMine-MP/tree/4.26.0",
     "build_log_url": "https://github.com/pmmp/PocketMine-MP/actions/runs/7116200954",
-    "php_download_url": "https://github.com/pmmp/PHP-Binaries/releases/tag/php-8.1-latest"
+    "php_download_url": "https://github.com/pmmp/PHP-Binaries/releases/tag/pm4-php-8.1-latest"
 }
