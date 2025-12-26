@@ -1,15 +1,15 @@
 {
     "php_version": "8.2",
-    "base_version": "5.39.1",
-    "build": 2587,
+    "base_version": "5.39.2",
+    "build": 2589,
     "is_dev": false,
     "channel": "stable",
-    "git_commit": "5675bdf2f84c86c97ce9d0beb3c5db3b0fc0ae79",
+    "git_commit": "a6ced39472135aacb64cd75b06c5adb452b9db20",
     "mcpe_version": "1.21.130",
-    "date": 1766349997,
-    "details_url": "https://github.com/pmmp/PocketMine-MP/releases/tag/5.39.1",
-    "download_url": "https://github.com/pmmp/PocketMine-MP/releases/download/5.39.1/PocketMine-MP.phar",
-    "source_url": "https://github.com/pmmp/PocketMine-MP/tree/5.39.1",
-    "build_log_url": "https://github.com/pmmp/PocketMine-MP/actions/runs/20415572186",
+    "date": 1766749459,
+    "details_url": "https://github.com/pmmp/PocketMine-MP/releases/tag/5.39.2",
+    "download_url": "https://github.com/pmmp/PocketMine-MP/releases/download/5.39.2/PocketMine-MP.phar",
+    "source_url": "https://github.com/pmmp/PocketMine-MP/tree/5.39.2",
+    "build_log_url": "https://github.com/pmmp/PocketMine-MP/actions/runs/20521844947",
     "php_download_url": "https://github.com/pmmp/PHP-Binaries/releases/tag/pm5-php-8.2-latest"
 }
